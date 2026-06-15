@@ -1,0 +1,18 @@
+site_name: Analiza Dynamiki Zmian - Projekt SWPZ
+site_description: Instrukcja wyznaczania indeksów łańcuchowych dla zespołu
+
+theme:
+  name: material # Wykorzystanie szablonu innego niż domyślny
+  palette:
+    - scheme: default
+      primary: green # Modyfikacja istniejącego szablonu
+      accent: light-green
+  features:
+    - navigation.sections
+
+nav:
+  - Strona Główna: index.md
+  - Zespół Projektowy: autorzy.md
+  - Podstawa Teoretyczna: teoria.md
+  - Przykłady i Kod: przyklady.md
+  - Wyniki i Testowanie: testowanie.md
