@@ -18,3 +18,5 @@ Gdzie:
 * Jeśli wynik wynosi **100%**, cena w stosunku do poprzedniego roku nie zmieniła się.
 * Jeśli wynik wynosi **105%**, oznacza to wzrost ceny o 5% w ujęciu rok do roku.
 * Jeśli wynik wynosi **95%**, oznacza to spadek ceny o 5% w ujęciu rok do roku.
+
+*Wszystkie powyższe wzory zostały zaimplementowane w naszym skryptcie Pythona.*
