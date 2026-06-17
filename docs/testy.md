@@ -1,6 +1,6 @@
-# Wyniki Działania i Testowanie Programu
+# Testowanie programu
 
-W celu weryfikacji poprawności działania skryptu automatyzującego, zespół przeprowadził testy integracyjne na przygotowanej bazie danych cenowych.
+W celu weryfikacji poprawności działania skryptu automatyzującego, przeprowadziliśmy testy na przygotowanej bazie danych cenowych.
 
 ## Logi z uruchomienia skryptu
 Poniższy wydruk z konsoli potwierdza, że biblioteka `pandas` prawidłowo zinterpretowała brak danych dla pierwszego roku (brak okresu poprzedzającego) oraz bezbłędnie wyliczyła indeksy łańcuchowe dla kolejnych lat.

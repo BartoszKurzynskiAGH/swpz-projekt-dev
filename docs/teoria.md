@@ -1,4 +1,4 @@
-# Podstawa Teoretyczna - Indeksy Łańcuchowe
+# Podstawa teoretyczna
 
 W analizie dynamiki zjawisk ekonomicznych kluczowe znaczenie ma porównywanie wartości z różnych okresów. W naszym projekcie wykorzystujemy **indeksy łańcuchowe** (indeksy o podstawie zmiennej).
 

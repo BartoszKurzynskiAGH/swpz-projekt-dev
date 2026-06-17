@@ -1,4 +1,4 @@
-# Przykłady i Kod Źródłowy
+# Przykłady i dod źródłowy
 
 Poniżej znajduje się prosty skrypt w Pythonie, który automatyzuje obliczenia.
 

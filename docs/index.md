@@ -1,4 +1,4 @@
-# Wskaźniki Dynamiki w Zespole Analitycznym
+# Wskaźniki dynamiki w zespole analitycznym
 
 Projekt wykonany w ramach przedmiotu Systemy Wspomagania Pracy Zespołowej
 
@@ -10,9 +10,9 @@ My przedstawimy wdrożenie prostego skryptu komputerowego, który automatyzuje l
 
 
 ## Struktura dokumentacji:
-* **Zespół Projektowy:** Autorzy i podział zadań.
-* **Podstawa Teoretyczna:** Czym są indeksy łańcuchowe?.
-* **Przykłady i Kod:** Gotowy skrypt Pythonie.
+* **Zespół:** Autorzy i podział zadań.
+* **Teoria:** Czym są indeksy łańcuchowe?.
+* **Przykłady i Kod:** Skrypt Pythonie.
 * **Wyniki i Testowanie:** Logi potwierdzające poprawne działanie programu.
 
 *Uwaga: Dokumentacja jest na bieżąco aktualizowana przez cały zespół analityczny.*
