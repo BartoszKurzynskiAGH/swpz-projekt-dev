@@ -11,8 +11,9 @@ theme:
     - navigation.sections
 
 nav:
-  - Strona Główna: index.md
-  - Zespół Projektowy: autorzy.md
-  - Podstawa Teoretyczna: teoria.md
-  - Przykłady i Kod: przyklady.md
-  - Wyniki i Testowanie: testowanie.md
+  - Strona główna: index.md
+  - Zespół projektowy: autorzy.md
+  - Podstawa teoretyczna: teoria.md
+  - Architektura systemu: architektura.md
+  - Przykłady i kod: przyklady.md
+  - Wyniki i testowanie: testowanie.md
