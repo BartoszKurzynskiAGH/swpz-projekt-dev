@@ -16,3 +16,4 @@ Główny algorytm zaimplementowany w skrypcie opiera się na wyliczaniu indeksó
 * skrypt.py – moduł wykonawczy
 * mkdocs.yml – konfigurator struktury dokumentacji i motywu graficznego
 * docs – pliki źródłowe dokumentacji w formacie Markdown
+* .github/workflows/deploy.yml – automatyzacja wdrożenia na GitHub Pages
