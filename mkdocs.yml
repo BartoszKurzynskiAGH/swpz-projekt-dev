@@ -24,6 +24,8 @@ theme:
       toggle:
         icon: material/weather-night
         name: Przełącz na tryb jasny
+  features:
+    - navigation.sections
 
 markdown_extensions:
   - pymdownx.highlight:
