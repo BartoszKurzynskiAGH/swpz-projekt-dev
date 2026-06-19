@@ -1,11 +1,3 @@
-# Przykłady i kod źródłowy
-
-Poniżej znajduje się prosty skrypt w Pythonie, który automatyzuje obliczenia.
-
-## Skrypt dynamika_cen.py
-
-```python
-
 import pandas as pd
 
 dane_ekonomiczne = {

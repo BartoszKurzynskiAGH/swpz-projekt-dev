@@ -14,5 +14,6 @@ My przedstawimy wdrożenie prostego skryptu komputerowego, który automatyzuje l
 * **Teoria:** Czym są indeksy łańcuchowe?.
 * **Przykłady i Kod:** Skrypt Pythonie.
 * **Wyniki i Testowanie:** Logi potwierdzające poprawne działanie programu.
+* **Architektura Systemu:** Sposób organizcji systemu.
 
 *Uwaga: Dokumentacja jest na bieżąco aktualizowana przez cały zespół analityczny.*

@@ -7,9 +7,9 @@ Indeks łańcuchowy to miernik statystyczny, który porównuje wartość badaneg
 
 Wzór matematyczny na indeks łańcuchowy:
 
-i = Y_1 / Y_0 * 100%
+## i = Y_1 / Y_0 * 100%
 
-Gdzie:
+## Legenda:
 * i - indeks łańcuchowy
 * Y_1 – wartość zjawiska w okresie badanym.
 * Y_0 – wartość zjawiska w okresie bezpośrednio poprzedzającym.

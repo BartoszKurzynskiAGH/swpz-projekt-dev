@@ -5,9 +5,9 @@ Poniżej znajduje się opis struktury modułów skryptu analitycznego oraz matem
 ## Model matematyczny
 Główny algorytm zaimplementowany w skrypcie opiera się na wyliczaniu indeksów łańcuchowych przy użyciu biblioteki pandas:
 
-I = X_t / X_t-1 * 100%
+## I = X_t / X_t-1 * 100%
 
-Gdzie:
+## Legenda:
 * I - indeks łańcuchowy
 * X_t – cena w roku bieżącym
 * X_t-1 – cena w roku poprzednim
