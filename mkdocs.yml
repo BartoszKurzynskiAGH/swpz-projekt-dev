@@ -38,8 +38,8 @@ markdown_extensions:
 
 nav:
   - Strona główna: index.md
-  - Zespół projektowy: autorzy.md
-  - Podstawa teoretyczna: teoria.md
+  - Zespół: autorzy.md
+  - Teoria: teoria.md
   - Architektura systemu: architektura.md
   - Przykłady i kod: przyklady.md
   - Wyniki i testowanie: testy.md
