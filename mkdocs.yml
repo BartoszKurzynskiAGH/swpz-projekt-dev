@@ -2,13 +2,37 @@ site_name: Analiza Dynamiki Zmian - Projekt SWPZ
 site_description: Instrukcja wyznaczania indeksów łańcuchowych dla zespołu
 
 theme:
-  name: material # Wykorzystanie szablonu innego niż domyślny
-  palette:
-    - scheme: default
-      primary: green # Modyfikacja istniejącego szablonu
-      accent: light-green
+  name: material
+  language: pl
   features:
-    - navigation.sections
+    - navigation.tabs        
+    - navigation.sections    
+    - navigation.instant     
+    - code.copy              
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: neon pink
+      toggle:
+        icon: material/weather-sunny
+        name: Przełącz na tryb ciemny
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Przełącz na tryb jasny
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_style: material
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 
 nav:
   - Strona główna: index.md
