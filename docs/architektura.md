@@ -12,8 +12,7 @@ Główny algorytm zaimplementowany w skrypcie opiera się na wyliczaniu indeksó
 * X_t – cena w roku bieżącym
 * X_t-1 – cena w roku poprzednim
 
-## Struktura komponentów
-Repozytorium zostało podzielone na bloki:
+## Skruktura repozytorium:
 * skrypt.py – moduł wykonawczy
 * mkdocs.yml – konfigurator struktury dokumentacji i motywu graficznego
-* docs/ – pliki źródłowe dokumentacji w formacie Markdown
+* docs – pliki źródłowe dokumentacji w formacie Markdown
