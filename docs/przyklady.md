@@ -2,7 +2,7 @@
 
 Poniżej znajduje się prosty skrypt w Pythonie, który automatyzuje obliczenia.
 
-## Skrypt dynamika_cen.py
+## skrypt.py
 
 ```python
 
