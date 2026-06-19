@@ -12,7 +12,7 @@ My przedstawimy wdrożenie prostego skryptu komputerowego, który automatyzuje l
 ## Struktura dokumentacji:
 * **Zespół:** Autorzy i podział zadań.
 * **Teoria:** Czym są indeksy łańcuchowe?.
-* **Przykłady i Kod:** Skrypt Pythonie.
+* **Przykłady i Kod:** Skrypt w Pythonie.
 * **Wyniki i Testowanie:** Logi potwierdzające poprawne działanie programu.
 * **Architektura Systemu:** Sposób organizcji systemu.
 
