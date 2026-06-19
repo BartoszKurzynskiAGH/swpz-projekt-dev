@@ -19,3 +19,4 @@ df['Indeks_Łancuchowy_Procent'] = (df['Cena_Chleba_PLN'] / df['Cena_Chleba_PLN'
 
 print(" REZULTATY ANALIZY DLA ZESPOŁU ")
 print(df.to_string(index=False))
+```

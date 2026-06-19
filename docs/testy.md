@@ -14,3 +14,4 @@ Poniższy wydruk z konsoli potwierdza, że biblioteka `pandas` prawidłowo zinte
 2024              4.9                 108.888889
 2025              4.9                 100.000000
 2026              5.2                 106.122449
+```
